@@ -7,7 +7,7 @@ To install the dependencies of development, go to folder of project clonned and 
 
 $ npm install first 
 
-Made this, execute, to start the server, execute:
+Made this, execute, to start the server:
 
 $ yarn dev
 
@@ -16,4 +16,4 @@ Or, if you want run the server in network local, go the file "package.json", and
 "dev": "webpack-dev-server --mode development" to 
 "dev": "webpack-dev-server --mode development --host (your IP) "
 
-Congrullations. The application it is ready to be execute.
+Congratulations. The application it is ready to be execute.
