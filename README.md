@@ -13,7 +13,7 @@ $ yarn dev
 
 Or, if you want run the server in network local, go the file "package.json", and edit the line:
 
-"dev": "webpack-dev-server --mode development" to 
-"dev": "webpack-dev-server --mode development --host (your IP) "
+$ "dev": "webpack-dev-server --mode development" to 
+$ "dev": "webpack-dev-server --mode development --host (your IP) "
 
 Congratulations. The application it is ready to be execute.
